@@ -1,6 +1,5 @@
-### LAB TASK 05
-## Nested Switch
-
+//LAB TASK 05
+//NESTED SWITCH
 #include<stdio.h>
 #include<string.h>
 struct courses {
